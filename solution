@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+<head>
+    <meta charset="UTF-8">
+    <title>Trisha's Resume</title>
+</head>
+
+<body>
+    <h1>
+        My Resume
+    </h1>
+    <hr/>
+    <h2>Profile Photo
+        <img src="./asset/profile-image.jpeg" height="100" alt="profile image"/> </h2>
+    <h2>Name- Trisha Agrawal</h2>
+    <h2>Email-trishaagrawal0499@gmail.com</h2>
+    <h2>linkedIn-not available</h2>
+    <h2>Github- <a href="https://github.com/Trisha2025/demo-html-project">github link</a></h2>
+    
+    <hr/>
+    
+    <h2>Proffestional Summary</h2>
+    <p>
+        Highly Motivated and detail-oriented web developer with 2years of experience building fast,scalable,and user-friendly applications.
+    </p>
+    <h2>Technical Skillls</h2>
+    <ul>
+        <li>Programming skills:Html,CSS,JAVAscript</li>
+        <li>Databases:My SQL</li>
+        <li>Operating Systems:Windows,Linux</li>
+    </ul>
+    <h2>Experience</h2>
+    <ul>
+        <li>Junior Web developer,workingwith a team of developer in building multiple web applications.</li>
+        <li>Built responsive websites using HTML,CSS and JAVAscript.</li>
+        <li>Worked with clients to understand their needs and deliver customs solutions.</li>
+    </ul>
+    <h2>Education</h2>
+    <ul>
+       <li>Bachelor's Degree in ARTS,Jeewaji Univesirty Gwalior,2019</li>
+       <li>Masters in Computers Applications,Amrita vishwa vidyapeetham,Ahead Online. </li> 
+    </ul>
+    <h2>Hobbies</h2>
+    <ul>
+        <li>Reading Books</li>
+        <li>Workouts</li>
+        <li>Listening Music</li>
+        <li>Dance</li>
+        <li>Playing Badminton</li>
+    </ul>
+
+    <h3>Contact:7999468619</h3>
+
+</body>
+    
+
+    
+    
+
+        
+
+    
+
+    
+    
+    
